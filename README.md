@@ -14,10 +14,10 @@ source venv/bin/activate
 ```
 
 * Install requirementsdqwdqdq
-
-```bash
+w
+```bashw
 pip install -r requirements.txt
-```
+```w
 
 * Run the flask application (In production, please use Gunicorn)
 
