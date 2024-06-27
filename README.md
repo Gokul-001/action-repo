@@ -5,12 +5,12 @@ Please use this repository for constructing the Flask webhook receiver.
 *******************
 v
 ## Setupvss
-virtualenv venv
-```sss
-* Activate the virtual env
+virtualenv venvq
+```ssss
+* Activate the virtual envs
 ss
 ```bash
-source venv/bin/activate
+source venv/bin/activates
 ```s
 
 * Install requirementsdqwdqdqs
