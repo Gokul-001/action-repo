@@ -6,7 +6,7 @@ s
 v
 ## Setupvssw
 virtualenv venvq
-```ssss
+```sssss
 * Activate the virtual envsw
 ss
 ```bash
