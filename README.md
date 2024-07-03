@@ -1,24 +1,13 @@
 # Dev Assessment - Webhook Receiver
 
-Please use this repository for constructing the Flask webhook receiver.dw
-s
-*******************sad
-## Setupvsswf
-virtualenv venvqzs
-```sssssdwdssq
-```bashx
-source venv/bin/activatessda
-```s
+Please use this repository for constructinga
+```bashxae
+```sget
 
 * Install requirementsdqwdqdqss
-w
-```bashw
-pip install -r requirements.txt
-```w
-
-* Run the flask application (In production, please use Gunicorn)
-
-```bash
+wb
+t
+* Run the flask application (In production, please use Gunie
 python run.py
 ```
 
