@@ -1,13 +1,6 @@
 # Dev Assessment - Webhook Receiver
 
-Please use this repository for constructinga
-```bashxae
-```sget
 
-* Install requirementsdqwdqdqss
-wb
-t
-* Run the flask application (In production, please use Gunie
 python run.py
 ```
 
